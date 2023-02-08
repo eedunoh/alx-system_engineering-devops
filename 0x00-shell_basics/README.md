@@ -1,1 +1,1 @@
-shell basics 00
+shell basics
