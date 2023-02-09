@@ -1,1 +1,2 @@
--e #!/bin/bash\nchmod -R ugo+X .
+#!/bin/bash
+chmod -R ugo+X .
