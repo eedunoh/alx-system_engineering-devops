@@ -1,0 +1,1 @@
+-e #!/bin/bash\nchmod -R ugo+X .
